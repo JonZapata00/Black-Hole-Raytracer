@@ -8,12 +8,10 @@ cs500_j.zapata/obj/*
 cs500_j.zapata/Outputs/*
 cs500_j.zapata/Resources/*
 
-#Final project stuff
-CS500/bin/*
-CS500/obj/*
-CS500/Outputs/*
+bin/*
+obj/*
 CS500/include/*
 CS500/lib/*
-CS500/.vs/*
+.vs/*
 
 *.obj
