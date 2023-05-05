@@ -1,0 +1,19 @@
+# Visual Studio user specific files
+cs500_j.zapata/.vs/*
+FinalProject/Project/.vs/*
+
+#binary files
+cs500_j.zapata/bin/*
+cs500_j.zapata/obj/*
+cs500_j.zapata/Outputs/*
+cs500_j.zapata/Resources/*
+
+#Final project stuff
+CS500/bin/*
+CS500/obj/*
+CS500/Outputs/*
+CS500/include/*
+CS500/lib/*
+CS500/.vs/*
+
+*.obj
