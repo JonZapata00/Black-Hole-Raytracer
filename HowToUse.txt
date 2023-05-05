@@ -1,0 +1,19 @@
+Upon opening the executable or making a build thorugh Visual Studio, you will see a Black Hole with its accretion disk being rendered
+at the center of the screen.
+
+----- Controls -----
+• W: Move camera up.
+• S: Move camera down.
+• A: Move camera to the left.
+• D: Move camera to the right.
+• X: Move camera away from object (max distance of 20)
+• Z: Move camera towards the object (min distance of 0.3).
+
+----- GUI -----
+You will encounter a panel in which you can set and tweak several values:
+• Apply Bloom effect.
+• Apply Lensing.
+• Render accretion disk.
+• Amount of bloom iterations.
+• Sizes of disk radii.
+• Relativistic beam exponent value.
